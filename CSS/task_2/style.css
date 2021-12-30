@@ -31,7 +31,7 @@ img {
   align-items: center;
   flex-direction: column;
   width: 1276px;
-  height: 60px;
+  height: 78px;
   margin: 0 auto;
   background-color:#EEEEEE;
   margin-top: 10px;
@@ -42,6 +42,18 @@ img {
   width: 293px;
   height: 21px;
 }
+
+.search-button {
+  padding-top: 2px;
+}
+
+/* .button1 {
+  padding: 1px 6px;
+}
+
+.button2 {
+  padding: 1px 6px;
+} */
 
 .box-area {
   display: flex;
@@ -54,17 +66,9 @@ img {
   justify-content: center;
   align-items: center;
   width: 469px;
-  height: 72px;
+  height: 78px;
   background-color: #7EE5DA;
   margin: 2px;
-}
-
-.button1 {
-  padding: 1px 6px;
-}
-
-.button2 {
-  padding: 1px 6px;
 }
 
 .box-2 {
@@ -73,7 +77,7 @@ img {
   justify-content: center;
   align-items: center;
   width: 272px;
-  height: 72px;
+  height: 78px;
   background-color: #70CCC2;
   padding: 1px 1px 1px 1px;
   margin: 2px;
@@ -89,14 +93,14 @@ img {
   justify-content: center;
   align-items: center;
   width: 526px;
-  height: 72px;
+  height: 78px;
   background-color: #70CCC2;
   margin: 2px;
 }
 
 .box3-content {
   font-size: small;
-  padding-top: 5px;
+  padding-top: 8px;
 }
 
 .box3-link {
